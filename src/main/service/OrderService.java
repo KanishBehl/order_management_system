@@ -1,8 +1,8 @@
-package com.example.ordermanagement.service;
+package service;
 
-import com.example.ordermanagement.model.Order;
-import com.example.ordermanagement.model.OrderStatus;
-import com.example.ordermanagement.repository.OrderRepository;
+import model.Order;
+import model.OrderStatus;
+import repository.OrderRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
