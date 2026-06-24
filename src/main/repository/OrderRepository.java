@@ -1,6 +1,6 @@
-package com.example.ordermanagement.repository;
+package repository;
 
-import com.example.ordermanagement.model.Order;
+import model.Order;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
