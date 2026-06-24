@@ -1,7 +1,7 @@
-package com.example.ordermanagement.controller;
+package controller;
 
-import com.example.ordermanagement.model.Order;
-import com.example.ordermanagement.service.OrderService;
+import model.Order;
+import service.OrderService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
